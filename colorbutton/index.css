@@ -1,0 +1,20 @@
+*{
+    background-color: black;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.button{
+    border: 1px solid white;
+    color: #ffffff;
+    width: 100px
+}
+
+#button p{
+    align-items: center;
+}
