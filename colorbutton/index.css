@@ -1,5 +1,6 @@
-*{
-    background-color: black;
+html, body{
+     margin: 0;
+    padding: 0;
 }
 
 .container{
@@ -9,12 +10,20 @@
     height: 100vh;
 }
 
-.button{
+.button-border{
+    background:linear-gradient(115deg, #eeaf61, #fb9062, #ee5d6c, #ce4993, #6a0d83);
+    padding: 2px;
+}
+
+
+
+
+/* .button{
     border: 1px solid white;
     color: #ffffff;
     width: 100px
-}
+} */
 
-#button p{
+/* #button p{
     align-items: center;
-}
+} */
